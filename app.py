@@ -18,7 +18,7 @@ st.subheader('Plan your next trip with AI')
 st.sidebar.header('Enter details to generate a travel plan:')
 
 # get google api key from the user but don't display it
-api_key = st.sidebar.text_input('Enter Google API Key')
+api_key = st.sidebar.text_input('Enter Your Google API Key')
 
 # source, destination, date, budget, duration
 source = st.sidebar.text_input('Source', 'New York')
