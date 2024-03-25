@@ -1,22 +1,29 @@
 # AI-Travel-Planner
 AI Travel Planner use GPT-4 AI technology to assist you in your travel planning
 
+# Live Demo Link
+[Live Demo](https://ai-travel-planner.streamlit.app/)
+
 # AI Travel Planner
 
-![AI Travel Planner]([https://your-imag.com](https://unsplash.com/photos/person-in-red-jacket-standing-in-front-of-brown-concrete-building-during-daytime-ULj5DJrjTJA))
+![AI Travel Planner](https://images.unsplash.com/photo-1583235891598-53ae16fab99d?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Plan your next trip with US! This application allows You to generate travel plans using Google's Generative AI.
 
 ## Table of Contents
 
-- [Inspiration](#Inspiration)
-- [Description](#description)
-- [Features](#features)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [What'snext_for_AI-Travel-Planner](#What's_next_for_AI-Travel-Planner)
-- [License](#license)
+- [AI-Travel-Planner](#ai-travel-planner)
+- [Live Demo Link](#live-demo-link)
+- [AI Travel Planner](#ai-travel-planner-1)
+  - [Table of Contents](#table-of-contents)
+- [Inspiration](#inspiration)
+  - [Description](#description)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+- [What's next for AI-Travel-Planner](#whats-next-for-ai-travel-planner)
+  - [License](#license)
 
 # Inspiration
 
